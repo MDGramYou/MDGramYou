@@ -40,3 +40,5 @@ Search bar.
 <div align="center">
 
 **Download**
+
+[![Download](https://img.shields.io/badge/Download-MDGramYou%20-green?style=for-the-badge&logo=appveyor)]()
