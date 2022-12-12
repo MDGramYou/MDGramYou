@@ -11,6 +11,16 @@
 <br>
 <br>
 
+
+[![MDGram Version](https://img.shields.io/badge/MDGram-V13-darkgreen)](https://github.com/MDGramYou/MDGramYou/releases)
+[![Stars](https://img.shields.io/github/stars/MDGramYou/MDGramYou?style=flat-square&color=yellow)](https://github.com/MDGramYou/MDGramYou/stargazers)
+[![Forks](https://img.shields.io/github/forks/MDGramYou/MDGramYou?style=flat-square&color=orange)](https://github.com/MDGramYou/MDGramYou/fork)
+[![Size](https://img.shields.io/github/repo-size/MDGramYou/MDGramYou?style=flat-square&color=green)](https://github.com/MDGramYou/MDGramYou/)   
+[![Telegram](https://img.shields.io/badge/Telegram-v9.2.2-blue)](https://www.telegram.org)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/MDGramYou/MDGramYou/graphs/commit-activity)
+[![Contributors](https://img.shields.io/github/contributors/MDGramYou/MDGramYou?style=flat-square&color=green)](https://github.com/MDGramYou/MDGramYou/graphs/contributors)
+[![License](https://img.shields.io/badge/License-GPL2.0-blue)](https://github.com/MDGramYou/MDGramYou/blob/main/LICENSE)
+
 [![Group](https://img.shields.io/badge/Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/MDGramClub)ㅤ [![Channel](https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/MDMods_You)
 
 </div>
