@@ -37,6 +37,6 @@ Search bar.
 - And much more to discover.
 
 
-🔗 **Download**  
-├ [Stable Releases](<https://telegram.dog/OwlGramAPKs>)  
-└ [Beta Releases](<https://telegram.dog/OwlGramBeta>)
+<div align="center">
+
+**Download**
