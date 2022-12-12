@@ -1,13 +1,14 @@
-<h2>
 <div align="center"> 
 
 **MDGramYou**
 
-[<>]()
+[<img src="https://github.com/MDGramYou/.github/blob/main/resources/Logo.png" align="centre" width="200" height="200"/>](https://github.com/MDGramYou/MDGramYou)
 
-</h2>
+<sup>
+MDGramYou is an UNOFFICIAL messaging application that uses the Telegram API With a completely renewed and beautiful UI design.
+</sup>
 
-MDGramYou is an **unofficial** messaging app that uses **Telegram's API**.
+</div>
 
 **Features MDGram Messenger:** As the main features of MDGram to mention, we have a variety that we will mention in detail so that you can see what MDGram brings. Broadly speaking, it has a different interface from the normal Telegram, Styles, mods, Design and more that we will mention below.
 
