@@ -25,3 +25,9 @@ This is a guide section to download MDGram here you can see two Links One that i
 
 </div>
 </details>
+
+<div align="center">
+
+ [CHANGELOG]()
+
+</div>
