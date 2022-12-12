@@ -9,16 +9,19 @@ This is a guide section to download MDGram here you can see two Links One that i
 
 <details>
  <summary>Download MDGram Apk Universal</summary>
+<br>
+<div align="center">
 
-<sub>
-MDGram Universal Apk is an apk that supports «armeabi-v7a», «arm64-v8a», «x86», «x86_64»
-</sub>
+<a href=""> `MEGA` </a> • <a href=""> `APKADMIN` </a>
 
+</div>
 </details>
 <details>
  <summary>MDGram on Google PlayStore</summary>
+<br>
+<div align="center">
 
-<sub>
-MDGram is also in PlayStore you can see it from here For updates.</sub>
+<a href=""> `Download from PlayStore` </a>
 
+</div>
 </details>
