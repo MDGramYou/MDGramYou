@@ -5,7 +5,7 @@
 [<img src="https://github.com/MDGramYou/.github/blob/main/resources/Logo.png" align="centre" width="200" height="200"/>](https://github.com/MDGramYou/MDGramYou)
 
 <sup>
-MDGramYou is an UNOFFICIAL messaging application that uses the Telegram API With a completely renewed and beautiful UI design.
+<b>MDGramYou</b> is an UNOFFICIAL messaging application that uses the Telegram API With a completely renewed and beautiful UI design.
 </sup>
 
 <br>
