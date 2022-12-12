@@ -28,3 +28,6 @@
 **Download**
 
 [![Download](https://img.shields.io/badge/Download-MDGramYou%20-green?style=for-the-badge&logo=appveyor)](https://github.com/MDGramYou/MDGramYou/tree/main/Download)
+
+
+[MDGramYou](https://github.com/MDGramYou/MDGramYou) is licensed under the [GNU General Public License v2.0](https://github.com/MDGramYou/MDGramYou/blob/main/LICENSE)
