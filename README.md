@@ -8,6 +8,11 @@
 MDGramYou is an UNOFFICIAL messaging application that uses the Telegram API With a completely renewed and beautiful UI design.
 </sup>
 
+<br>
+<br>
+
+[![Telegram](https://img.shields.io/badge/Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/MaximXGroup) [![Telegram](https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/MaximXChannels)
+
 </div>
 
 **Features MDGram Messenger:** As the main features of MDGram to mention, we have a variety that we will mention in detail so that you can see what MDGram brings. Broadly speaking, it has a different interface from the normal Telegram, Styles, mods, Design and more that we will mention below.
