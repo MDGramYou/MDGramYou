@@ -21,7 +21,7 @@
 - UI Telegram iOS 
 - UI Telegram Material You
 - Conversation Screen Sesign 2 Styles
-- MDGram Settings Design & [more](https://github.com/MDGramYou).
+- MDGram Settings Design & [More](https://github.com/MDGramYou).
 
 <div align="center">
 
