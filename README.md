@@ -17,11 +17,11 @@
 
 **Features MDGram Messenger:** As the main features of MDGram to mention, we have a variety that we will mention in detail so that you can see what MDGram brings. Broadly speaking, it has a different interface from the normal Telegram, Styles, mods, Design and more that we will mention below.
 
-- Home UI design 2 styles
-- UI telegram ios
+- Home UI Design 2 Styles
+- UI Telegram iOS 
 - UI Telegram Material You
-- Conversation screen design 2 styles
-- MDGram Settings Design [more](https://github.com/MDGramYou).
+- Conversation Screen Sesign 2 Styles
+- MDGram Settings Design & [more](https://github.com/MDGramYou).
 
 <div align="center">
 
