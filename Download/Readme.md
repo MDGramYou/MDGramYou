@@ -28,6 +28,6 @@ This is a guide section to download MDGram here you can see two Links One that i
 
 <div align="center">
 
- [`CHANGELOG`](https://github.com/MDGramYou/MDGramYou/releases/tag/Version)
+ [`CHANGELOG`](https://github.com/MDGramYou/MDGramYou/releases)
 
 </div>
