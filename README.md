@@ -39,4 +39,4 @@
 
 [![Download](https://img.shields.io/badge/Download-MDGramYou%20-green?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge)](https://github.com/MDGramYou/MDGramYou/tree/main/Download)
 
-<sub> [MDGramYou](https://github.com/MDGramYou/MDGramYou) is licensed under the [GNU-v2.0](https://github.com/MDGramYou/MDGramYou/blob/main/LICENSE)
+<sub> [MDGramYou](https://github.com/MDGramYou/MDGramYou) is licensed under the [GPL-v2.0](https://github.com/MDGramYou/MDGramYou/blob/main/LICENSE)
