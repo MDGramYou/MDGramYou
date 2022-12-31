@@ -12,7 +12,7 @@ This is a guide section to download MDGram here you can see two Links One that i
 <br>
 <div align="center">
 
-<a href="https://mega.nz/file/KwNiEQjD#YCVC9g0ZNjnWfXI7D4ScXaMdTotqTWODVEHFNNVHSsc"> `MEGA` </a> • <a href="https://apkadmin.com/b0c73huxrk6l/MDGramV13F-9.1.6-2931-universal.apk.html"> `APKADMIN` </a>
+<a href="https://apkadmin.com/4pffmjd0ftbe/MDGramV14-9.2.2-2965-universal.apk.html"> `Download` </a>
 
 </div>
 </details>
