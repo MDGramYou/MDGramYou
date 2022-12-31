@@ -12,7 +12,7 @@
 <br>
 
 
-[![MDGram Version](https://img.shields.io/badge/MDGram-V13-darkgreen)](https://github.com/MDGramYou/MDGramYou/releases)
+[![MDGram Version](https://img.shields.io/badge/MDGram-V14-darkgreen)](https://github.com/MDGramYou/MDGramYou/releases)
 [![Stars](https://img.shields.io/github/stars/MDGramYou/MDGramYou?style=flat-square&color=yellow)](https://github.com/MDGramYou/MDGramYou/stargazers)
 [![Forks](https://img.shields.io/github/forks/MDGramYou/MDGramYou?style=flat-square&color=orange)](https://github.com/MDGramYou/MDGramYou/fork)
 [![Size](https://img.shields.io/github/repo-size/MDGramYou/MDGramYou?style=flat-square&color=green)](https://github.com/MDGramYou/MDGramYou/)   
