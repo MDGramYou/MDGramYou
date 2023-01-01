@@ -16,7 +16,7 @@
 [![Stars](https://img.shields.io/github/stars/MDGramYou/MDGramYou?style=flat-square&color=yellow)](https://github.com/MDGramYou/MDGramYou/stargazers)
 [![Forks](https://img.shields.io/github/forks/MDGramYou/MDGramYou?style=flat-square&color=orange)](https://github.com/MDGramYou/MDGramYou/fork)
 [![Size](https://img.shields.io/github/repo-size/MDGramYou/MDGramYou?style=flat-square&color=green)](https://github.com/MDGramYou/MDGramYou/)   
-[![Telegram](https://img.shields.io/badge/Telegram-v9.3.2-blue)](https://www.telegram.org)
+[![Telegram](https://img.shields.io/badge/Telegram-v9.3.2-blue)](https://github.com/TelegramOfficial)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/MDGramYou/MDGramYou/graphs/commit-activity)
 [![Contributors](https://img.shields.io/github/contributors/MDGramYou/MDGramYou?style=flat-square&color=green)](https://github.com/MDGramYou/MDGramYou/graphs/contributors)
 [![License](https://img.shields.io/badge/License-GPL2.0-blue)](https://github.com/MDGramYou/MDGramYou/blob/main/LICENSE)
