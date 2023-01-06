@@ -12,7 +12,7 @@ This is a guide section to download MDGram here you can see two Links One that i
 <br>
 <div align="center">
 
-<a href="https://github.com/MDGramYou/MDGramYou/releases/download/v15Fix/MDGramV15.apk"> `Download` </a>
+<a href="https://github.com/MDGramYou/MDGramYou/releases"> `Download` </a>
 
 </div>
 </details>
